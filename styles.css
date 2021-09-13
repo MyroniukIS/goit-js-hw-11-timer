@@ -1,0 +1,11 @@
+.timer {
+  display: flex;
+  justify-content: space-around;
+}
+.field {
+  background-color: rgb(116, 235, 112);
+  color: black;
+  font-size: 30px;
+  padding: 7px;
+  border: black solid 1px;
+}
